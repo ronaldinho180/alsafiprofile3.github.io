@@ -1,0 +1,84 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%"
+	 height="100%" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:none;stroke:#231F20;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#E6E7E8;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{opacity:0.5;fill:#B5B5B5;stroke:#231F20;stroke-miterlimit:10;}
+	.st3{fill:#58595B;stroke:#231F20;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+
+	.st0, .st1, .st2, .st3{
+        transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+    }
+
+    #camp-bino:hover #camp-bino{
+
+    }
+
+    #camp-bino:hover .st2{
+        opacity: 1;
+        stroke: #ffffff;
+        transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+    }
+
+     #camp-bino:hover .st0{
+        stroke: #ffffff;
+        transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+    }
+
+     #camp-bino:hover .st1{
+        fill: #FF4D4D;
+        stroke: black;
+        transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+    }
+
+     #camp-bino:hover .st3{
+        fill: #2E2E2E;
+        transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+    }
+
+
+
+]]>
+</style>
+
+<g id="camp-bino">
+    <g id="circle">
+        <circle class="st2" cx="30" cy="30" r="27"/>
+    </g>
+    <g id="bino">
+        <path class="st3" d="M27.558,38.133c3.403,2.244,6.033,0,6.033,0c1.16,3.018,4.254,5.029,4.254,5.029
+            c5.569,2.164,8.586-0.387,8.586-0.387c6.575-4.797,3.172-11.371,3.172-11.371l-5.492-7.581c-1.16-1.315-3.558-2.011-3.558-2.011
+            l-2.63-4.1c-2.939-2.552-4.719,0.774-4.719,0.774v4.022c-2.397-1.779-5.027,0-5.027,0v-3.017c-0.149-0.536-0.181-0.957-0.368-1.315
+            c-0.96-1.83-2.624-1.744-3.693-1.063c-0.893,0.568-1.431,1.605-1.431,1.605l-1.856,3.326c-1.16-0.619-3.48,1.47-3.48,1.47
+            l-4.332,6.111c-6.172,9.188,3.481,14.078,3.481,14.078S25.49,46.297,27.558,38.133z"/>
+    </g>
+    <g id="details">
+        <g id="lens">
+            <circle class="st1" cx="19.397" cy="35.465" r="6.148"/>
+            <circle class="st1" cx="41.906" cy="35.465" r="6.149"/>
+            <circle class="st1" cx="30.624" cy="34.127" r="2.65"/>
+        </g>
+        <g id="shine">
+            <path class="st0" d="M14.209,35.464c0,2.867,2.32,5.188,5.188,5.188"/>
+            <path class="st0" d="M37.044,35.464c0,2.867,2.32,5.188,5.188,5.188"/>
+        </g>
+    </g>
+</g>
+
+</svg>

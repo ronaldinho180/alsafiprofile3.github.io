@@ -1,0 +1,95 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" height="100%" viewBox="0 0 310 389" style="enable-background:new 0 0 310 389;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:none;stroke:#39B54A;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+        .st1{fill:none;stroke:#A97C50;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+        .st2{fill:#99FF81;}
+
+
+    	.st0, .st1{
+    	    stroke-dasharray: 200;
+    	    stroke-dashoffset: 0;
+    	    animation: tree-animation 4s linear forwards;
+    	    -webkit-animation: tree-animation 4s linear forwards;
+            -moz-animation: tree-animation 4s linear forwards;
+            -o-animation: tree-animation 4s linear forwards;
+    	}
+
+    	@keyframes tree-animation{
+    	    from{
+    	        stroke-dashoffset: 200;
+    	    }
+    	    to{
+    	        stroke-dashoffset: 0;
+    	    }
+    	}
+
+    	-webkit-@keyframes tree-animation{
+            from{
+                stroke-dashoffset: 200;
+            }
+            to{
+                stroke-dashoffset: 0;
+            }
+        }
+
+        -moz-@keyframes tree-animation{
+            from{
+                stroke-dashoffset: 200;
+            }
+            to{
+                stroke-dashoffset: 0;
+            }
+        }
+        -o-@keyframes tree-animation{
+            from{
+                stroke-dashoffset: 200;
+            }
+            to{
+                stroke-dashoffset: 0;
+            }
+        }
+
+        -ms-@keyframes tree-animation{
+            from{
+                stroke-dashoffset: 200;
+            }
+            to{
+                stroke-dashoffset: 0;
+            }
+        }
+
+]]>
+</style>
+<g>
+	<g id="XMLID_1_">
+		<g>
+			<path class="st2" d="M218,244c-19.9,0-36,0-36,0c0,14.92-16.1,27-36,27c-39.8,0-72-12.08-72-27c-39.8,0-72-32.2-72-72
+				s16.1-72,36-72c0-24.87,16.1-45,36-45c0-29.85,32.2-54,72-54s72,12.08,72,27c34.82,0,63,32.2,63,72c14.92,0,27,32.2,27,72
+				S267.75,244,218,244z"/>
+		</g>
+		<g>
+			<path class="st0" d="M74,244c-39.8,0-72-32.2-72-72"/>
+			<path class="st0" d="M2,172c0-39.8,16.1-72,36-72"/>
+			<path class="st0" d="M38,100c0-24.87,16.1-45,36-45"/>
+			<path class="st0" d="M74,55c0-29.85,32.2-54,72-54"/>
+			<path class="st0" d="M146,1c39.8,0,72,12.08,72,27"/>
+			<path class="st0" d="M218,28c34.82,0,63,32.2,63,72"/>
+			<path class="st0" d="M281,100c14.92,0,27,32.2,27,72"/>
+			<path class="st0" d="M308,172c0,39.8-40.25,72-90,72"/>
+			<path class="st0" d="M74,244c0,14.92,32.2,27,72,27"/>
+			<path class="st0" d="M146,271c19.9,0,36-12.08,36-27"/>
+			<path class="st0" d="M182,244c0,0,16.1,0,36,0"/>
+		</g>
+	</g>
+</g>
+<path class="st1" d="M164,388c0-109.441,0-198,0-198"/>
+<path class="st1" d="M164,190c0-34.822-44.279-63-99-63"/>
+<path class="st1" d="M119,136c0,9.949-24.152,18-54,18"/>
+<path class="st1" d="M157.91,168.181c0-52.597,24.032-95.158,53.73-95.158"/>
+<path class="st1" d="M172.285,103.373c0,9.523,12.396,17.229,27.715,17.229"/>
+<path class="st1" d="M200,75.264c0-12.729-12.396-23.028-27.715-23.028"/>
+<path class="st1" d="M164,190c0-14.353,38.241-25.966,85.5-25.966"/>
+<path class="st1" d="M164,222.461c0-7.993-22.14-14.461-49.5-14.461"/>
+</svg>
